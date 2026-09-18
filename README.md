@@ -1,1 +1,1 @@
-# smart-healthcare-
+This website keeps all the patient's health information in one place. Users can upload and view medical reports, prescriptions, and previous consultation details without searching through different files. The health timeline helps them see their medical history clearly, while smart document reading makes important information easier to understand
